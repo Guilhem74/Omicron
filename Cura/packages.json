@@ -1,0 +1,51 @@
+{
+    "installed": {
+        "CuraSolidWorksPlugin": {
+            "filename": "C:\\Users\\Guilhem\\AppData\\Local\\cura\\4.0\\cache\\cura_packages\\CuraSolidWorksPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "thopiekar",
+                    "display_name": "Thomas Karl Pietrowski",
+                    "email": "thopiekar@gmail.com",
+                    "website": "https://thopiekar.eu"
+                },
+                "description": "Gives you the possibility to open certain files using SolidWorks itself. Conversion is done by this plugin and additional optimizations.",
+                "display_name": "3DS SolidWorks Integration",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "CuraSolidWorksPlugin",
+                "package_type": "plugin",
+                "package_version": "0.5.8",
+                "sdk_version": 6,
+                "sdk_version_semver": "6.0.0",
+                "website": "https://thopiekar.eu/cura/plugins/cad/solidworks/"
+            }
+        },
+        "DuetRRFPlugin": {
+            "filename": "C:\\Users\\Guilhem\\AppData\\Local\\cura\\4.0\\cache\\cura_packages\\DuetRRFPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "thomas_kriechbaumer",
+                    "display_name": "Thomas Kriechbaumer",
+                    "email": "thomas@kriechbaumer.name",
+                    "website": "https://github.com/Kriechi"
+                },
+                "description": "Upload and Print to DuetWifi / DuetEthernet / Duet Maestro with RepRapFirmware.",
+                "display_name": "Duet RepRapFirmware Integration",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "DuetRRFPlugin",
+                "package_type": "plugin",
+                "package_version": "1.0.3",
+                "sdk_version": 6,
+                "sdk_version_semver": "6.0.0",
+                "website": "https://github.com/Kriechi/Cura-DuetRRFPlugin/"
+            }
+        }
+    },
+    "to_install": {},
+    "to_remove": [],
+    "version": 1
+}
