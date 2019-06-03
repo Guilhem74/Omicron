@@ -13,3 +13,6 @@ Render pictures :
 Real life picture : 
 ![alt text](https://github.com/Guilhem74/Omicron/blob/master/Pictures/Omicron.jpg?raw=true)
 ![alt text](https://github.com/Guilhem74/Omicron/blob/master/Pictures/OmicronLighted.jpg?raw=true)
+
+
+This is free materials, distributed under the MPL-2.0. If you want to discuss a release under another license, please contact me
