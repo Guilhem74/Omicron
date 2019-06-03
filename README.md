@@ -10,3 +10,7 @@ Render pictures :
 
 ![alt text](https://github.com/Guilhem74/Omicron/blob/master/Pictures/Render_Back.JPG?raw=true)
 ![alt text](https://github.com/Guilhem74/Omicron/blob/master/Pictures/Render_Front.JPG?raw=true)
+
+Real life picture : 
+![alt text](https://github.com/Guilhem74/Omicron/blob/master/Pictures/Omicron.jpg?raw=true)
+![alt text](https://github.com/Guilhem74/Omicron/blob/master/Pictures/OmicronLighted.jpg?raw=true)
